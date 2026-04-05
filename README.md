@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel 👋
 
-Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae — onde aprendi que entender o problema é tão importante quanto escrever o código.
+Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae, onde aprendi que entender o problema é tão importante quanto escrever o código.
 
 Meu foco hoje é desenvolvimento fullstack com Python no backend e JavaScript no frontend. No longo prazo, quero me consolidar como Engenheiro de Software.
 
