@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e8132a&height=120&section=header&text=Daniel%20Tavares&fontSize=42&fontColor=f0eeeb&fontAlignY=65&animation=fadeIn" />
-</div>
+  <img width="100%" src="github-header.svg" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=E8132A&center=true&vCenter=true&width=600&lines=Fullstack+Developer+em+formação;Python+%2B+FastAPI+%2B+JavaScript;Nossa+Senhora+de+Lourdes%2C+Sergipe+🇧🇷" alt="Typing SVG" />
