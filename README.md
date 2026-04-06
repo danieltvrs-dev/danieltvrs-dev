@@ -1,24 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=E8132A&center=true&vCenter=true&width=620&lines=Olá%2C+eu+sou+Daniel+Tavares+👋;Fullstack+Developer+em+Formação;Python+%2B+FastAPI+%2B+JavaScript;Aberto+a+novas+oportunidades+🚀" alt="Typing SVG" />
-</div>
+# 👋 Olá, eu sou Daniel Tavares
 
-<br>
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=danieltvrs-dev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e8132a&icon_color=e8132a&text_color=f0eeeb&border_color=e8132a&border_radius=8" />
-
-Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae — onde aprendi que entender o problema é tão importante quanto escrever o código.
+Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae, onde aprendi que entender o problema é tão importante quanto escrever o código.
 
 Meu foco hoje é desenvolvimento fullstack com Python no backend e JavaScript no frontend. No longo prazo, quero me consolidar como Engenheiro de Software.
 
-Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simples no começo e projetos mais complexos conforme o tempo passa — é assim que o aprendizado funciona.
+Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simples no começo e projetos mais complexos conforme o tempo passa, é assim que o aprendizado funciona.
 
-<br clear="right"/>
+---
 
-<br>
-
-<div align="center">
-
-**Stack atual**
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e8132a)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=e8132a)
@@ -29,32 +19,27 @@ Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simp
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=e8132a)
 ![VSCode](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=e8132a)
 
-</div>
+---
 
-<br>
+## 📌 No que estou trabalhando
 
-<div align="center">
+Estou desenvolvendo projetos com Python e FastAPI, aprofundando meu conhecimento em banco de dados com PostgreSQL e explorando o frontend com JavaScript. Cada projeto que aparece aqui existe porque eu quis entender algo ou resolver um problema real.
 
-**No que estou trabalhando**
+---
 
-Estou desenvolvendo projetos com Python e FastAPI, aprofundando meu conhecimento em banco de dados com PostgreSQL e explorando o frontend com JavaScript. Cada projeto que aparece aqui existe porque eu quis entender algo ou resolver um problema real — não por outra razão.
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltvrs-dev&layout=compact&theme=dark&bg_color=0d0d0d&title_color=e8132a&text_color=f0eeeb&border_color=e8132a&border_radius=8" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=danieltvrs-dev&theme=dark&background=0d0d0d&ring=e8132a&fire=e8132a&currStreakLabel=e8132a&border=e8132a&border_radius=8" />
-</div>
-
-<br>
-
-<div align="center">
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e8132a)](https://www.linkedin.com/in/daniel-campostvrs)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=e8132a)](mailto:campostavaresdaniel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=e8132a)](https://github.com/danieltvrs-dev)
 
-<img src="https://komarev.com/ghpvc/?username=danieltvrs-dev&color=e8132a&style=flat-square&label=Visualizações+do+perfil" />
+---
 
-</div>
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltvrs-dev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e8132a&icon_color=e8132a&text_color=f0eeeb&border_color=333&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltvrs-dev&layout=compact&theme=dark&bg_color=0d0d0d&title_color=e8132a&text_color=f0eeeb&border_color=333)
+
+---
+
+*"A diferença entre um bom dev e um ótimo dev não é o que eles sabem, é o que eles fazem quando não sabem."*
