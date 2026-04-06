@@ -1,19 +1,16 @@
 <div align="center">
-  <img width="100%" src="github-header.svg" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=E8132A&center=true&vCenter=true&width=600&lines=Fullstack+Developer+em+formação;Python+%2B+FastAPI+%2B+JavaScript;Nossa+Senhora+de+Lourdes%2C+Sergipe+🇧🇷" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=E8132A&center=true&vCenter=true&width=620&lines=Olá%2C+eu+sou+Daniel+Tavares+👋;Fullstack+Developer+em+Formação;Python+%2B+FastAPI+%2B+JavaScript;Aberto+a+novas+oportunidades+🚀" alt="Typing SVG" />
 </div>
 
 <br>
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=danieltvrs-dev&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e8132a&icon_color=e8132a&text_color=f0eeeb&border_color=e8132a&border_radius=8" />
 
-Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae, onde aprendi que entender o problema é tão importante quanto escrever o código.
+Tenho 20 anos, sou de Sergipe e estou construindo minha carreira em desenvolvimento de software. Curso ADS na UNIT e trabalho como Agente de Desenvolvimento na Sala do Empreendedor em parceria com o Sebrae — onde aprendi que entender o problema é tão importante quanto escrever o código.
 
 Meu foco hoje é desenvolvimento fullstack com Python no backend e JavaScript no frontend. No longo prazo, quero me consolidar como Engenheiro de Software.
 
-Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simples no começo e projetos mais complexos conforme o tempo passa, é assim que o aprendizado funciona.
+Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simples no começo e projetos mais complexos conforme o tempo passa — é assim que o aprendizado funciona.
 
 <br clear="right"/>
 
@@ -40,7 +37,7 @@ Esse GitHub é o registro da minha evolução. Você vai encontrar projetos simp
 
 **No que estou trabalhando**
 
-Estou desenvolvendo projetos com Python e FastAPI, aprofundando meu conhecimento em banco de dados com PostgreSQL e explorando o frontend com JavaScript. Cada projeto que aparece aqui existe porque eu quis entender algo ou resolver um problema real.
+Estou desenvolvendo projetos com Python e FastAPI, aprofundando meu conhecimento em banco de dados com PostgreSQL e explorando o frontend com JavaScript. Cada projeto que aparece aqui existe porque eu quis entender algo ou resolver um problema real — não por outra razão.
 
 </div>
 
@@ -60,8 +57,4 @@ Estou desenvolvendo projetos com Python e FastAPI, aprofundando meu conhecimento
 
 <img src="https://komarev.com/ghpvc/?username=danieltvrs-dev&color=e8132a&style=flat-square&label=Visualizações+do+perfil" />
 
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e8132a&height=80&section=footer" />
 </div>
